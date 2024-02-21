@@ -1,0 +1,4 @@
+{
+	"name": "GenAlpha Schematics Compatible CentOS 8",
+	"image": "ghcr.io/gen-alpha-xtor/centos8:main",
+}
